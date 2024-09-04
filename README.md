@@ -1,5 +1,7 @@
-beginner ds student 
-not so fast but motivated learner
+-beginner ds student 👩‍🎓 
+
+-not so fast but motivated learner 🌻 
+
 Pronouns: they/their
 
 <!---
