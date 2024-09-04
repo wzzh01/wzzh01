@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @wzzh01
-- 👀 I’m interested in traveling reading and cycling
 - 🌱 I’m currently a college student learning Data Science
-- 💞️ I’m looking to collaborate on ...
 - 📫 reach me: wz.zhou01@gmail.com
 - 😄 Pronouns: they/their
 
